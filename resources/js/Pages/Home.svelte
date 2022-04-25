@@ -2,4 +2,6 @@
     let user = "John Doe";
 </script>
 
-<h1>hello {user}, from svelte</h1>
+<h1 class="text-3xl font-bold underline">
+    hello {user}, from svelte
+</h1>
