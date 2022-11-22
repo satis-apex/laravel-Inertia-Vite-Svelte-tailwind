@@ -36,7 +36,7 @@ npm install
 npm run dev
 or
 ## for production
-npm run production
+npm run build
 
 #start php server
 php artisan serve
