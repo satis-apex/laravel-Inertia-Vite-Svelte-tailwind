@@ -23,6 +23,7 @@ git clone git@github.com:satis-apex/Vite-Laravel-Vue-Inertia-Tailwind.git
 #cd into the project directory
 #copy env example to .env file
 cp .env.example .env
+php artisan key:generate
 
 #install PHP dependencies
 composer install
